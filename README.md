@@ -35,9 +35,8 @@ A broader list of languages and tools I am familiar with.
 Here are a few of my favorite projects that showcase my skills:
 
 <!-- Replace the repository names with your own -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=PROJECT_1_NAME&theme=radical&hide_border=true)](https://github.com/mahi7000/Developer_Vulnerability_Scanner.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=PROJECT_2_NAME&theme=radical&hide_border=true)](https://github.com/wende12github/Silent-Coders.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=PROJECT_3_NAME&theme=radical&hide_border=true)](https://github.com/mahi7000/gsap-macbook-landing.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=Developer_Vulnerability_Scanner&theme=radical&hide_border=true)](https://github.com/mahi7000/Developer_Vulnerability_Scanner.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=gsap-macbook-landing&theme=radical&hide_border=true)](https://github.com/mahi7000/gsap-macbook-landing.git)
 
 <br>
 
