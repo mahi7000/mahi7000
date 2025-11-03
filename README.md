@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Mahlet Belay! 👋
 
-<!--
-**mahi7000/mahi7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer from Ethiopia. I specialize in building robust, scalable, and user-friendly web applications. My expertise lies in the modern JavaScript ecosystem, with a deep focus on creating seamless full-stack experiences.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+
+### 💻 Core Specialization
+
+These are the technologies I work with daily and have the most expertise in.
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,prisma&theme=dark)
+
+### 🛠️ Languages & Tools
+
+A broader list of languages and tools I am familiar with.
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,cpp,c,go,vue,git,vite&theme=dark)
+
+<br>
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahi7000&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi7000&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahi7000&theme=radical&hide_border=true)
+
+<br>
+
+## 🏆 Featured Projects
+
+Here are a few of my favorite projects that showcase my skills:
+
+<!-- Replace the repository names with your own -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=PROJECT_1_NAME&theme=radical&hide_border=true)](https://github.com/mahi7000/PROJECT_1_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=PROJECT_2_NAME&theme=radical&hide_border=true)](https://github.com/mahi7000/PROJECT_2_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=PROJECT_3_NAME&theme=radical&hide_border=true)](https://github.com/mahi7000/PROJECT_3_NAME)
+
+<br>
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology. Feel free to reach out!
+
+- **Portfolio:** [[My Portfolio](https://portfolio-five-drab-59.vercel.app/)]
+- **LinkedIn:** [[My Linkedin Profile](https://www.linkedin.com/in/mahlet-b-472223279/)]
+- **Twitter:** [[My Twitter Profile](https://x.com/b_mahlet)]
+- **Email:** [[My Email](mahlet7000@gmail.com)]
+
+---
+
+**Thanks for visiting my profile! Have a great day! 😊**
