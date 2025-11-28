@@ -34,7 +34,6 @@ A broader list of languages and tools I am familiar with.
 
 Here are a few of my favorite projects that showcase my skills:
 
-<!-- Replace the repository names with your own -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=Developer_Vulnerability_Scanner&theme=radical&hide_border=true)](https://github.com/mahi7000/Developer_Vulnerability_Scanner.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahi7000&repo=gsap-macbook-landing&theme=radical&hide_border=true)](https://github.com/mahi7000/gsap-macbook-landing.git)
 
@@ -44,8 +43,8 @@ Here are a few of my favorite projects that showcase my skills:
 
 I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology. Feel free to reach out!
 
-- **Portfolio:** [[My Portfolio](https://portfolio-five-drab-59.vercel.app/)]
-- **LinkedIn:** [[My Linkedin Profile](https://www.linkedin.com/in/mahlet-b-472223279/)]
+- **Portfolio:** [[My Portfolio](https://portfolio-site-mahlet.vercel.app/)]
+- **LinkedIn:** [[My Linkedin Profile](https://www.linkedin.com/in/mahlet-belay-472223279/)]
 - **Twitter:** [[My Twitter Profile](https://x.com/b_mahlet)]
 - **Email:** [[My Email](mahlet7000@gmail.com)]
 
